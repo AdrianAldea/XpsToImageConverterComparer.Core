@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpsToImgConverter", "XpsToImgConverter\XpsToImgConverter.csproj", "{BF90BAD4-4834-4D70-B08F-85377AEA0F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConverter", "ConsoleConverter\ConsoleConverter.csproj", "{D12B81F8-BCB8-4419-8EB3-ABD7D5271799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageComparer", "ImageComparer\ImageComparer.csproj", "{C166A9E5-0162-4E16-B6D8-7EE6AD390927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF90BAD4-4834-4D70-B08F-85377AEA0F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF90BAD4-4834-4D70-B08F-85377AEA0F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF90BAD4-4834-4D70-B08F-85377AEA0F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF90BAD4-4834-4D70-B08F-85377AEA0F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12B81F8-BCB8-4419-8EB3-ABD7D5271799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12B81F8-BCB8-4419-8EB3-ABD7D5271799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12B81F8-BCB8-4419-8EB3-ABD7D5271799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12B81F8-BCB8-4419-8EB3-ABD7D5271799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C166A9E5-0162-4E16-B6D8-7EE6AD390927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C166A9E5-0162-4E16-B6D8-7EE6AD390927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C166A9E5-0162-4E16-B6D8-7EE6AD390927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C166A9E5-0162-4E16-B6D8-7EE6AD390927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
